@@ -1,4 +1,4 @@
-import { Preloader, Game } from "./scenes/index.js";
+import { Preloader, Game, Menu } from "./scenes/index.js";
 
 export default new Phaser.Game({
     type: Phaser.AUTO,
@@ -11,11 +11,11 @@ export default new Phaser.Game({
         default: 'arcade',
         arcade: {
             gravity: { y: 1000},
-            debug: true,
+            // debug: true,
             tileBias: 20,
         }
     },
-    scene: [Preloader, Game],
+    scene: [Preloader, Menu, Game],
     scale: {
         mode: Phaser.Scale.FIT,
         zoom: 1,

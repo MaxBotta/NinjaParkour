@@ -1,0 +1,217 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#terrain": {
+            "scaleInDock": 1
+        },
+        "/Users/maxbotta/Desktop/DigitalSchool/Mi1745/NinjaParkour/tiled/level1.tmx": {
+            "scale": 0.4583,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 672.0488762819114,
+                "y": 2633.6460833515166
+            }
+        },
+        "/Users/maxbotta/Desktop/DigitalSchool/Mi1745/NinjaParkour/tiled/level1.tmx#background_blue": {
+            "scaleInDock": 1
+        },
+        "/Users/maxbotta/Desktop/DigitalSchool/Mi1745/NinjaParkour/tiled/level1.tmx#background_yellow": {
+            "scaleInDock": 1
+        },
+        "/Users/maxbotta/Desktop/DigitalSchool/Mi1745/NinjaParkour/tiled/level1.tmx#fire": {
+            "scaleInDock": 1
+        },
+        "/Users/maxbotta/Desktop/DigitalSchool/Mi1745/NinjaParkour/tiled/level1.tmx#sand_mud_ice": {
+            "scaleInDock": 1
+        },
+        "/Users/maxbotta/Desktop/DigitalSchool/Mi1745/NinjaParkour/tiled/level1.tmx#spikes": {
+            "scaleInDock": 1
+        },
+        "/Users/maxbotta/Desktop/DigitalSchool/Mi1745/NinjaParkour/tiled/level1.tmx#terrain": {
+            "scaleInDock": 1
+        },
+        "/Users/maxbotta/Desktop/DigitalSchool/Mi1745/NinjaParkour/tiled/level1.tmx#terrain_collide": {
+            "scaleInDock": 1
+        },
+        "back_Brown.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "check_start.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "checkpoint.tsx": {
+            "scaleInDock": 1
+        },
+        "forest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3.7288
+        },
+        "level2.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 0.338,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1047.3372781065088,
+                "y": 958.5798816568048
+            }
+        },
+        "level2.tmx#checkpoint": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level2.tmx#ice": {
+            "scaleInDock": 1
+        },
+        "level2.tmx#spikes": {
+            "scaleInDock": 1
+        },
+        "level2.tmx#terrain": {
+            "scaleInDock": 2.2458
+        },
+        "level2.tmx#terrain_collide": {
+            "scaleInDock": 1
+        },
+        "level2.tmx#trampoline": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level_3.tmx": {
+            "scale": 0.1525,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2708.1967213114754,
+                "y": 2065.5737704918033
+            }
+        },
+        "level_3.tmx#back_Brown": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level_3.tmx#check_start": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level_3.tmx#forest": {
+            "scaleInDock": 2.3028
+        },
+        "level_3.tmx#sand_mud_ice": {
+            "scaleInDock": 3.0268,
+            "scaleInEditor": 1
+        },
+        "level_3.tmx#spikes": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level_3.tmx#terrain": {
+            "scaleInDock": 1.6703,
+            "scaleInEditor": 1
+        },
+        "level_3.tmx#terrain_collide": {
+            "scaleInDock": 1.367,
+            "scaleInEditor": 1
+        },
+        "level_3.tmx#trampoline": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level_3.tmx#tress": {
+            "scaleInDock": 3.7027,
+            "scaleInEditor": 1
+        },
+        "platformer1.tmx": {
+            "scale": 0.3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 910.0000000000002,
+                "y": 600.0000000000001
+            }
+        },
+        "platformer1.tmx#terrain": {
+            "scaleInDock": 1.617,
+            "scaleInEditor": 36.44
+        },
+        "sand_mud_ice.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "spikes.tsx": {
+            "scaleInDock": 1
+        },
+        "terrain.tsx": {
+            "scaleInDock": 1
+        },
+        "terrain_blocking.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "terrain_collide.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "trampoline.tsx": {
+            "scaleInDock": 1
+        },
+        "trees.tsx": {
+            "scaleInDock": 1.7207,
+            "scaleInEditor": 1.5014
+        },
+        "tress.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/maxbotta/Desktop/phaser-platformer/assets",
+    "last.externalTilesetPath": "/Users/maxbotta/Documents/platformer",
+    "last.imagePath": "/Users/maxbotta/Desktop/phaser-platformer/assets/Forest/Tiles",
+    "last.worldFilePath": "/Users/maxbotta/Documents/platformer",
+    "loadedWorlds": [
+        "/Users/maxbotta/Documents/platformer/world.world"
+    ],
+    "map.height": 180,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": "1",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 600,
+    "openFiles": [
+    ],
+    "project": "platformer.tiled-project",
+    "property.type": "float",
+    "recentFiles": [
+        "/Users/maxbotta/Desktop/DigitalSchool/Mi1745/NinjaParkour/tiled/level1.tmx",
+        "level2.tmx",
+        "platformer1.tmx",
+        "level_3.tmx",
+        "forest.tsx",
+        "tress.tsx",
+        "trees.tsx",
+        "check_start.tsx",
+        "terrain_collide.tsx",
+        "sand_mud_ice.tsx",
+        "back_Brown.tsx",
+        "terrain_blocking.tsx"
+    ],
+    "tileset.embedInMap": false,
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

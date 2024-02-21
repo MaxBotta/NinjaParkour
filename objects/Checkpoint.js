@@ -1,13 +1,14 @@
 
 
 export class Checkpoint extends Phaser.Physics.Arcade.Sprite {
-    constructor(scene, x, y) {
+    constructor(scene, type, x, y) {
         super(scene, x + 32, y + 32, 'checkpoint');
         scene.add.existing(this);
         scene.physics.add.existing(this, true);
         this.body.setSize(64, 64);
         
         this.isChecked = false;
+        this.type = type;
 
         this.preload();
     }

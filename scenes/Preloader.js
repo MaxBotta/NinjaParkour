@@ -4,7 +4,7 @@ export class Preloader extends Phaser.Scene {
         super("preloader");
     }
 
-    preload() {
+    preload() { 
         this.load.image("terrain", "assets/PixelAdventure/Terrain/Terrain (16x16).png");
         this.load.image("ice", "assets/PixelAdventure/Traps/Sand Mud Ice/Sand Mud Ice (16x6).png");
         this.load.image("spikes", "assets/PixelAdventure/Traps/Spikes/Idle.png")
@@ -19,4 +19,5 @@ export class Preloader extends Phaser.Scene {
     create() {
         this.scene.start("game");
     }
+
 }
